@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "Which deveice is required for the internet connection",
+        option1: "Modem",
+        option2: "Router",
+        option3: "LAN Cable",
+        option4: "Pen Drive",
+        ans: 1,
+    },
+    {
+        question: "Which continent has the highest number of countrries",
+        option1: "Asia",
+        option2: "Europe",
+        option3: "North America",
+        option4: "Africa",
+        ans: 4,
+    },
+    {
+        question: "Junk e-mail is also called?",
+        option1: "Spam",
+        option2: "Fake",
+        option3: "Archived",
+        option4: "Bin",
+        ans: 3,
+    },
+    {
+        question: "A computer cannot BOOT if it does not have the?",
+        option1: "Applicaton Software",
+        option2: "Internet",
+        option3: "Operating System",
+        option4: "Mouse",
+        ans: 3,
+    },
+    {
+        question: "First page of Website is terme as?",
+        option1: "Index Page",
+        option2: "HomePage",
+        option3: "Sitemap",
+        option4: "Pen Drive",
+        ans: 2,
+    },
+];
